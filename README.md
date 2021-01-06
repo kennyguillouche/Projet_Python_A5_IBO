@@ -27,7 +27,8 @@ Il contient les colonnes suivantes :
 - Holiday - Holiday/No holiday
 - Functional Day - NoFunc(Non Functional Hours), Fun(Functional hours) = bool indiquant si la station de vélo était active
 
-#------------------------------------------------------------------------------------------------------------------------------
+# ------------------------------------------------------------------------------------------------------------------------------
+
 Dans ce repertoire github vous trouvez 
 - le code sous forme jupyter notebook (.ipynb) sous le nom de : "Projet_prediction_des_velos_loues_seoul.ipynb"
 - le code de l'API sous le nom de : "API_velos_loues_seoul.ipynb"
