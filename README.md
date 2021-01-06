@@ -12,24 +12,24 @@ Voici le jeu de données que nous avons étudié : https://archive.ics.uci.edu/m
 Ce jeu de donnée concerne les vélos disposés un peu partout dans la ville en libre service (équivalent au velib à Paris)
 Il contient les colonnes suivantes :
 
-- Date : format year-month-day 
+- Date : year-month-day 
 - Rented Bike count - Count of bikes rented at each hour
 - Hour - Hour of he day
 - Temperature-Temperature in Celsius
 - Humidity - %
 - Windspeed - m/s
 - Visibility - 10m
-- Dew point temperature - Celsius = température minimale annoncé
+- Dew point temperature - Celsius
 - Solar radiation - MJ/m2
 - Rainfall - mm
 - Snowfall - cm
 - Seasons - Winter, Spring, Summer, Autumn
 - Holiday - Holiday/No holiday
-- Functional Day - NoFunc(Non Functional Hours), Fun(Functional hours) = bool indiquant si la station de vélo était active
+- Functional Day - NoFunc(Non Functional Hours), Fun(Functional hours)
 
 # ----------------------------------------------------
 
-Dans ce repertoire github vous trouvez 
+Dans ce repertoire github vous trouverez :
 - le code sous forme jupyter notebook (.ipynb) sous le nom de : "Projet_prediction_des_velos_loues_seoul.ipynb"
 - le code de l'API sous le nom de : "API_velos_loues_seoul.ipynb"
 - le dataset nommé : "SeoulBikeData.csv"
