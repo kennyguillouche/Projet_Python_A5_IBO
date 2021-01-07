@@ -10,29 +10,15 @@ Voici le jeu de données que nous avons étudié : https://archive.ics.uci.edu/m
 # SOUTH KOREA PUBLIC HOLIDAYS. URL: publicholidays.go.kr
 
 Ce jeu de donnée concerne les vélos disposés un peu partout dans la ville en libre service (équivalent au velib à Paris)
-Il contient les colonnes suivantes :
-
-- Date : year-month-day 
-- Rented Bike count - Count of bikes rented at each hour
-- Hour - Hour of he day
-- Temperature-Temperature in Celsius
-- Humidity - %
-- Windspeed - m/s
-- Visibility - 10m
-- Dew point temperature - Celsius
-- Solar radiation - MJ/m2
-- Rainfall - mm
-- Snowfall - cm
-- Seasons - Winter, Spring, Summer, Autumn
-- Holiday - Holiday/No holiday
-- Functional Day - NoFunc(Non Functional Hours), Fun(Functional hours)
+Le but est de prédire le nombre de vélo loué à Seoul sur une heure donnée.
 
 # ----------------------------------------------------
 
 Dans ce repertoire github vous trouverez :
 - le code sous forme jupyter notebook (.ipynb) sous le nom de : "Projet_prediction_des_velos_loues_seoul.ipynb"
 - le code de l'API sous le nom de : "API_velos_loues_seoul.ipynb"
+- le modèle entrainé (pour l'API) : catboost_model.zip
 - le dataset nommé : "SeoulBikeData.csv"
-- la présentation nomme : "Présentation_projet_python.pdf"
+- la présentation nomme : "Présentation_projet_python_KG_CG.pdf"
 
 
