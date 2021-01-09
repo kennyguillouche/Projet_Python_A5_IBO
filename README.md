@@ -19,6 +19,6 @@ Dans ce repertoire github vous trouverez :
 - le code de l'API sous le nom de : "API_velos_loues_seoul.ipynb"
 - le modèle entrainé (pour l'API) : catboost_model.zip
 - le dataset nommé : "SeoulBikeData.csv"
-- la présentation nomme : "Présentation_projet_python_KG_CG.pdf"
+- la présentation nomme : "projet_python_Kenny_GUILLOUCHE_Clement_GENOT.pdf"
 
 
